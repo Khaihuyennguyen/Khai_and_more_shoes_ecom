@@ -1,4 +1,4 @@
-# Khai&More — Designing Sale page of a eCommerce website
+# Khai&More — Designing Sale page of an eCommerce website
 
 In this project, my goal is to finish building a sale page of an e-commerce store!
 
