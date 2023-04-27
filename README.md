@@ -4,7 +4,7 @@ In this project, my goal is to finish building a sale page of an e-commerce stor
 
 This project focuses only on CSS and uses Create React App to create a basic e-commerce website.
 
-![alt text](https://github.com/Khaihuyennguyen/Khai_and_more_shoes_ecom/tree/main/public/Web_capture.jpg?raw=true)
+![alt text](https://github.com/Khaihuyennguyen/Khai_and_more_shoes_ecom/tree/main/public/Web_capture.jpeg?raw=true)
 
 
 As a result, the links and inputs will not function properly.
